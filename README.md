@@ -14,3 +14,10 @@ Lab2
 ![image](https://github.com/user-attachments/assets/420e9294-7f35-4be2-8704-84df70759979)
 ![image](https://github.com/user-attachments/assets/6052257f-bd61-482a-9cfa-0a974b154d0b)
 ![image](https://github.com/user-attachments/assets/77f90dfa-cb60-4190-9074-bbc47aedba97)
+
+Lab3
+
+
+![image](https://github.com/user-attachments/assets/5d166d2d-a869-4ab8-8edb-4a3fa5049c60)
+![image](https://github.com/user-attachments/assets/abe7cc21-bf82-4807-a870-e7ed02acaacf)
+
